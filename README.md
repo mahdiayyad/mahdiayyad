@@ -13,5 +13,3 @@ A Full-Stack web developer with industry experience building websites and web ap
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahdiayyad&row=1&column=6&theme=algolia)](https://github.com/mahdiayyad)
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdiayyad&layout=compact&langs_count=8&theme=algolia"/> 
-
-[![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdiayyad&no-bg=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/mahdiayyad)
