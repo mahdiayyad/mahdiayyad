@@ -18,7 +18,6 @@
   <a href="#tech-stack">Tech Stack</a> ·
   <a href="#skills--expertise">Skills</a> ·
   <a href="#featured-projects">Projects</a> ·
-  <a href="#github-stats">Stats</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -180,41 +179,6 @@ An internal tool for operations teams to manage records and generate business re
 - Delivered a lightweight, dependency-free frontend using jQuery and Bootstrap
 
 </details>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahdiayyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdiayyad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiayyad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<details>
-<summary><strong>Contribution activity graph</strong></summary>
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiayyad&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-</details>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mahdiayyad&row=1&column=6&theme=tokyonight&no-frame=true)](https://github.com/mahdiayyad)
-
-</div>
 
 ---
 
