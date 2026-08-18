@@ -224,10 +224,9 @@ I'm open to full-time backend roles and select freelance projects. Feel free to 
 
 | Platform | Link |
 |---|---|
-| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
-| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
-| 🧑‍💻 Upwork / Freelance | [your-freelance-profile](https://your-freelance-profile.com) |
+| 📧 Email | [mahdiayyad97@gmail.com](mailto:mahdiayyad97@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/mayyad97](https://linkedin.com/in/mayyad97) |
+| 🌐 Portfolio | [mahdiayyad.github.io/Portfolio](https://mahdiayyad.github.io/Portfolio) |
 
 ---
 
