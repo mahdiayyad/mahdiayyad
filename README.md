@@ -1,15 +1,240 @@
-## Hello, I'm Mahdi Ayyad
-A Full-Stack web developer with industry experience building websites and web applications. 
+<div align="center">
 
-### [](https://github.com/mahdiayyad#-tech-stack)🛠 Technical Skills
+# Mahdi Ayyad
 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;![PUG](https://img.shields.io/badge/-PUG-05122A?style=flat&logo=PUG&logoColor=A86454)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&&logoColor=1572B6)&nbsp;![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&&logoColor=CC6699)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&&logoColor=#F7DF1E)
-&nbsp;![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&&logoColor=0769AD)&nbsp;![React](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react&&logoColor=#F7DF1E)&nbsp;![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux&&logoColor=764ABC)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&&logoColor=339933)&nbsp;![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express&&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&&logoColor=47A248)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&&logoColor=4479A1)&nbsp;![firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&&logoColor=FFCA28)&nbsp;![flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&&logoColor=0175C2)&nbsp;![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&&logoColor=E52030)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&&logoColor=777BB3)&nbsp;![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js&&logoColor=41B883)&nbsp;![Nuxt](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js&&logoColor=41B883)&nbsp;![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony&&logoColor=FFFFFF)
+### Laravel Backend Developer &nbsp;|&nbsp; 4+ Years of Experience &nbsp;|&nbsp; Jordan
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2F80ED&center=true&vCenter=true&width=560&lines=Building+scalable+Laravel+backends;Designing+clean+REST+APIs;Optimizing+MySQL+%26+Redis+at+scale;Integrating+payment+%26+third-party+APIs)](https://git.io/typing-svg)
 
-## 🏆 GitHub Profile Trophy
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mahdiayyad&color=2F80ED&style=flat-square&label=Profile+Views)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahdiayyad&row=1&column=6&theme=algolia)](https://github.com/mahdiayyad)
+</div>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdiayyad&layout=compact&langs_count=8&theme=algolia"/> 
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#tech-stack">Tech Stack</a> ·
+  <a href="#skills--expertise">Skills</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#github-stats">Stats</a> ·
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## About Me
+
+I'm a backend-focused software developer specializing in **Laravel** and the PHP ecosystem, with **4+ years** of experience designing, building, and maintaining production-grade web applications and APIs. I work primarily on the server side — architecting clean, maintainable systems that handle real-world traffic, data, and business logic reliably.
+
+My day-to-day revolves around building REST APIs, modeling relational databases, integrating third-party and payment services, and using caching and queues to keep applications fast under load. I care about writing code that's easy to reason about, testable, and built to scale with the business — not just code that works today.
+
+- 🎯 Focused on backend architecture, API design, and system reliability
+- 🧩 Comfortable owning a feature end-to-end — from schema design to deployment
+- 🌍 Based in Jordan, open to remote and on-site opportunities
+- 💬 Available for full-time roles and select freelance/contract work
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database & Caching**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Frontend Fundamentals**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Platform**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## Skills & Expertise
+
+Beyond core tooling, I have hands-on production experience with:
+
+| | |
+|---|---|
+| 🔐 Authentication & Authorization | Session, token, and role-based access control |
+| ⚙️ Laravel Queues & Jobs | Background processing, retries, and job orchestration |
+| 🚀 Caching Strategies | Redis-backed caching for high-traffic endpoints |
+| 💳 Payment Gateway Integrations | Stripe, PayPal, and local payment providers |
+| 🔗 Third-Party API Integrations | Consuming and exposing well-documented REST APIs |
+| 🗃️ Database Design & Optimization | Normalized schemas, indexing, and query tuning |
+| 🔁 CI/CD Concepts | Automated testing and deployment pipelines |
+| 🏗️ System Design Fundamentals | Scalability, reliability, and maintainability trade-offs |
+
+<details>
+<summary><strong>What I enjoy building</strong></summary>
+<br>
+
+- **Scalable REST APIs** that power web and mobile clients with clear, versioned contracts
+- **Payment and billing flows** that are correct, auditable, and resilient to failure
+- **Queue-driven systems** for notifications, imports/exports, and long-running tasks
+- **Internal tools and admin panels** that make other teams faster
+- **Performance-focused backends** — profiling slow queries and shaving off latency
+
+</details>
+
+<details>
+<summary><strong>Currently learning</strong></summary>
+<br>
+
+- Advanced Docker workflows and container orchestration basics
+- Event-driven architecture and message queues (RabbitMQ)
+- System design at scale — load balancing, sharding, and distributed caching
+- Core AWS services for deploying and scaling Laravel applications
+
+</details>
+
+---
+
+## Featured Projects
+
+<!-- Replace each block below with real projects. Keep the format for a consistent, recruiter-friendly layout. -->
+
+### [E-Commerce REST API Platform](https://github.com/mahdiayyad)
+
+A Laravel-based REST API powering an e-commerce platform, handling product catalogs, orders, and payment processing at scale.
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+<details>
+<summary>Key highlights</summary>
+<br>
+
+- Designed a normalized schema supporting multi-vendor product catalogs
+- Integrated a payment gateway with webhook-based order reconciliation
+- Used Redis to cache high-traffic catalog and pricing endpoints
+- Reduced average API response time through query optimization
+
+</details>
+
+### [Multi-Tenant SaaS Backend](https://github.com/mahdiayyad)
+
+A multi-tenant Laravel backend serving isolated data and configuration per client on shared infrastructure.
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<details>
+<summary>Key highlights</summary>
+<br>
+
+- Implemented tenant isolation at the database and application layer
+- Built role-based authorization for tenant-scoped resources
+- Containerized the application for consistent local and production environments
+
+</details>
+
+### [Booking & Notification System](https://github.com/mahdiayyad)
+
+A queue-driven booking system with asynchronous notifications via email and SMS.
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+
+<details>
+<summary>Key highlights</summary>
+<br>
+
+- Used Laravel Queues to offload notification delivery from the request cycle
+- Integrated third-party SMS and email providers behind a unified service layer
+- Added retry and failure-handling logic for unreliable external APIs
+
+</details>
+
+### [Internal Admin & Reporting Dashboard](https://github.com/mahdiayyad)
+
+An internal tool for operations teams to manage records and generate business reports.
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+<details>
+<summary>Key highlights</summary>
+<br>
+
+- Built dynamic, filterable reports backed by optimized SQL queries
+- Reduced manual reporting effort by automating recurring exports
+- Delivered a lightweight, dependency-free frontend using jQuery and Bootstrap
+
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahdiayyad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahdiayyad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdiayyad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<details>
+<summary><strong>Contribution activity graph</strong></summary>
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahdiayyad&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+</details>
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mahdiayyad&row=1&column=6&theme=tokyonight&no-frame=true)](https://github.com/mahdiayyad)
+
+</div>
+
+---
+
+## Contact
+
+I'm open to full-time backend roles and select freelance projects. Feel free to reach out.
+
+| Platform | Link |
+|---|---|
+| 📧 Email | [your.email@example.com](mailto:your.email@example.com) |
+| 💼 LinkedIn | [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin) |
+| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
+| 🧑‍💻 Upwork / Freelance | [your-freelance-profile](https://your-freelance-profile.com) |
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — always happy to connect with fellow backend developers and teams building serious products.*
+
+![Footer](https://img.shields.io/badge/Built%20with-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</div>
